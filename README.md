@@ -12,7 +12,7 @@
 克隆项目
 
 ```
-> $ git clone https://github.com/CanFoo/react.git
+> $ git clone https://github.com/yeqingqingye/React-demo
 ```
 
 分别进入react目录和server目录下安装依赖包
